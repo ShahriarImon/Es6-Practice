@@ -76,3 +76,10 @@ console.log(ActorsName);
 
 console.log(actors.filter(element => element.age<50));
 console.log(actors.find(element => element.age<50));
+
+function ceil(){
+    var he = "Hridoy";
+    var she = "Rony";
+    console.log(he);
+}
+ceil();
